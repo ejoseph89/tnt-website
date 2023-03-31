@@ -5,10 +5,10 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'tnt-backend',
+  title: 'true-north-tales',
 
-  projectId: '7gba8whb',
-  dataset: 'production',
+  projectId: 'kq7mi2fj',
+  dataset: 'true-north-tales',
 
   plugins: [deskTool(), visionTool()],
 
